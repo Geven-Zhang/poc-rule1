@@ -1,5 +1,0 @@
-<kmodule xmlns="http://www.drools.org/xsd/kmodule" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <kbase name="kiebases_poc_rule" default="true" eventProcessingMode="stream" equalsBehavior="identity">
-    <ksession name="kiesessions_poc_rule" type="stateless" default="true" clockType="realtime"/>
-  </kbase>
-</kmodule>
